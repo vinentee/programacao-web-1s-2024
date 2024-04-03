@@ -22,7 +22,6 @@ console.log(verificarNumeroPrimo(100));
 console.log(verificarNumeroPrimo(991));
 console.log(verificarNumeroPrimo(104729));
 console.log(verificarNumeroPrimo(14348907));
-
 // var a = 14348907
 
 // if (verificarNumeroPrimo(a)) {
